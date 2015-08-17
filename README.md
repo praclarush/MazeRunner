@@ -7,7 +7,6 @@
 ### Resources ###
 #### Sprites ####
 
-*
 http://untamed.wild-refuge.net/rmxpresources.php?characters
 
 Author: Sithjester's
@@ -23,17 +22,28 @@ http://opengameart.org/content/several-scrolling-backgrounds-and-layerable-runne
 
 License: Public Domain CC0
 
+
 Knight's Glove Mouse Cursor
+
 Author: lancel
+
 http://opengameart.org/content/knights-glove-mouse-cursor
+
 License: CC-BY 3.0
 
-Music:
+
+****Music:****
+
 Author: Alexandr Zhelanov
+
 http://opengameart.org/users/alexandr-zhelanov
+
 License: CC-BY 3.0
 
-Sound:
+****Sound:****
+
 Author: Little Robot Sound Factory
+
 http://opengameart.org/content/fantasy-sound-effects-library
+
 License: CC-BY 3.0
