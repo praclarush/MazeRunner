@@ -8,14 +8,14 @@
 
 #### Sprites ####
 
-*Author: Sithjester's
+* Author: Sithjester's
 
 http://untamed.wild-refuge.net/rmxpresources.php?characters
 
 License: free or commercial games, Just be sure to credit me
   
 
-*Author: Dylan Squires 
+* Author: Dylan Squires 
 
 desert_BG.png, swamp.png
 
@@ -24,7 +24,7 @@ http://opengameart.org/content/several-scrolling-backgrounds-and-layerable-runne
 License: Public Domain CC0
 
 
-*Author: lancel
+* Author: lancel
 
 Knight's Glove Mouse Cursor
 
@@ -35,7 +35,7 @@ License: CC-BY 3.0
 
 ####Music####
 
-Author: Alexandr Zhelanov
+* Author: Alexandr Zhelanov
 
 http://opengameart.org/users/alexandr-zhelanov
 
@@ -43,7 +43,7 @@ License: CC-BY 3.0
 
 ####Sound####
 
-Author: Little Robot Sound Factory
+* Author: Little Robot Sound Factory
 
 http://opengameart.org/content/fantasy-sound-effects-library
 
