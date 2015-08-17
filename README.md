@@ -3,6 +3,9 @@
 ### Videos ###
 * [Development Playlist](https://www.youtube.com/playlist?list=PLbmg72H4rIbyWMkN8sMWbOEkuttMtBfwX)
 ### Resources ###
+
+* [OpenGameArt](http://www.Opengameart.org)
+
 #### Sprites ####
 
 http://untamed.wild-refuge.net/rmxpresources.php?characters
@@ -32,7 +35,7 @@ http://opengameart.org/content/knights-glove-mouse-cursor
 License: CC-BY 3.0
 
 
-****Music:****
+####Music####
 
 Author: Alexandr Zhelanov
 
@@ -40,7 +43,7 @@ http://opengameart.org/users/alexandr-zhelanov
 
 License: CC-BY 3.0
 
-****Sound:****
+####Sound####
 
 Author: Little Robot Sound Factory
 
