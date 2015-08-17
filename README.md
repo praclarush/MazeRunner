@@ -1,9 +1,7 @@
 ### DX9 Video Game Final Project for 2D Game Design Class ###
 
 ### Videos ###
-
 * [Development Playlist](https://www.youtube.com/playlist?list=PLbmg72H4rIbyWMkN8sMWbOEkuttMtBfwX)
-
 ### Resources ###
 #### Sprites ####
 
