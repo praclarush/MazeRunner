@@ -5,7 +5,6 @@
 * [Development Playlist](https://www.youtube.com/playlist?list=PLbmg72H4rIbyWMkN8sMWbOEkuttMtBfwX)
 
 ### Resources ###
-
 #### Sprites ####
 
 http://untamed.wild-refuge.net/rmxpresources.php?characters
