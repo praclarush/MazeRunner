@@ -13,9 +13,13 @@ Author: Sithjester's
 
 License: free or commercial games, Just be sure to credit me
 
+
 desert_BG.png, swamp.png
+
 Author: Dylan Squires 
+
 http://opengameart.org/content/several-scrolling-backgrounds-and-layerable-runners
+
 License: Public Domain CC0
 
 Knight's Glove Mouse Cursor
