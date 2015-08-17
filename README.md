@@ -6,13 +6,14 @@
 
 ### Resources ###
 #### Sprites ####
-<p>
+
+*
 http://untamed.wild-refuge.net/rmxpresources.php?characters
 
 Author: Sithjester's
 
 License: free or commercial games, Just be sure to credit me
-</p>
+
 
 desert_BG.png, swamp.png
 
