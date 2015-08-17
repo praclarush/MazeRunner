@@ -10,19 +10,7 @@ http://untamed.wild-refuge.net/rmxpresources.php?characters
 Author: Sithjester's
 
 License: free or commercial games, Just be sure to credit me
-
-
-
-
-
-
-
-
-
-
-
-
-
+  
 
 desert_BG.png, swamp.png
 
