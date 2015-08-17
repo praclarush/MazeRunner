@@ -8,27 +8,25 @@
 
 #### Sprites ####
 
-http://untamed.wild-refuge.net/rmxpresources.php?characters
+*Author: Sithjester's
 
-Author: Sithjester's
+http://untamed.wild-refuge.net/rmxpresources.php?characters
 
 License: free or commercial games, Just be sure to credit me
   
-*
+
+*Author: Dylan Squires 
 
 desert_BG.png, swamp.png
-
-Author: Dylan Squires 
 
 http://opengameart.org/content/several-scrolling-backgrounds-and-layerable-runners
 
 License: Public Domain CC0
 
-*
+
+*Author: lancel
 
 Knight's Glove Mouse Cursor
-
-Author: lancel
 
 http://opengameart.org/content/knights-glove-mouse-cursor
 
